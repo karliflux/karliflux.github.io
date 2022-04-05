@@ -5,6 +5,7 @@
 
 body {
   font-family: ubuntu, sans-serif;
+  background: #bbbbdd;
 }
 
 /* Style the header */
@@ -24,8 +25,8 @@ header {
 aside {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
-  background: #c0c0c0;
+  /* height: 400px;  only for demonstration, should be removed */
+  background: #bbbbdd;
   padding: 20px;
 }
 
@@ -39,8 +40,8 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  background-color: #aaaaee;
+  /* height: 400px;  only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
