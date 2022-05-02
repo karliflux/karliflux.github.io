@@ -1,4 +1,4 @@
-/* W3Schools Template CSS */
+/* W3Schools Template CSS, very modified doe */
 * {
   box-sizing: border-box;
 }
@@ -10,7 +10,7 @@ body {
 
 /* Style the header */
 header {
-  background-image: url('assets/images/headerbackground.webp');
+  background-image: url('assets/image/headerbackground.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -25,7 +25,7 @@ header {
 aside {
   float: left;
   width: 30%;
-  /* height: 400px;  only for demonstration, should be removed */
+  height: 500px;
   background: #bbbbdd;
   padding: 20px;
 }
@@ -38,10 +38,10 @@ aside {
 
 article {
   float: left;
-  padding: 20px;
+  padding: 0px;
   width: 70%;
   background-color: #aaaaee;
-  /* height: 400px;  only for demonstration, should be removed */
+  height: 500px;
 }
 
 /* Clear floats after the columns */
@@ -65,4 +65,9 @@ footer {
     width: 100%;
     height: auto;
   }
+}
+
+iframe {
+  border: none;
+  padding: 0px;
 }
