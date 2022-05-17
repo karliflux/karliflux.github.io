@@ -1,0 +1,47 @@
+article {
+  border: 2px solid #000000;
+  background-color: #251A52;
+  width: 640px;
+}
+body {
+  background-image: url('images/background.png');
+}
+h1 {
+  font-family: ubuntu, sans-serif;
+  color: #FFFFFF
+}
+h2 {
+  font-family: ubuntu, sans-serif;
+  color: #FFFFFF
+}
+h3 {
+  font-family: ubuntu, sans-serif;
+  color: #FFFFFF
+}
+h4 {
+  font-family: ubuntu, sans-serif;
+  color: #FFFFFF
+}
+p {
+  font-family: ubuntu, sans-serif;
+  color: #FFFFFF
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  background-color: #352B63;
+  border: 2px solid #000000;
+}
+a {
+  font-type: bold;
+}
+section {
+  border: 2px solid #000000;
+  background-color: #352B63;
+  width: 640px;
+}
+iframe {
+    border: none;
+}
