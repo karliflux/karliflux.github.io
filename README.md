@@ -1,3 +1,4 @@
+![favicon.gif](https://github.com/kittehsq/kittehsq.github.io/blob/main/assets/image/favicon.gif?raw=true)
 # kittehsq.github.io
 
 <p>even smaller html5 website</p>
