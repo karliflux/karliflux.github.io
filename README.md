@@ -6,7 +6,7 @@
 
 # running
 
-<p>the website is confirmed to work on firefox 78 by just double clicking on index.html or visiting the github pages version.</p>
+<p>the website is confirmed to work on firefox 78-100 by just double clicking on index.html or visiting the github pages version.</p>
 <p>like the last one, this website is also designed for the ubuntu font family, though if not on your computer it'll just load up any sans serif font you got on your pc.</p>
 
 # html design guidelines
