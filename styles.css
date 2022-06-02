@@ -23,6 +23,10 @@ header {
 
 /* Create two columns/boxes that floats next to each other */
 aside {
+  background-image: url('assets/image/asidebg.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
   float: left;
   width: 30%;
   height: 500px;
