@@ -18,7 +18,7 @@ header {
   text-align: left;
   text-shadow: 4px 4px 5px #000000;
   font-size: 35px;
-  color: #FFFFFF;
+  color: #352B63;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -30,7 +30,7 @@ aside {
   float: left;
   width: 30%;
   height: 500px;
-  background: #bbbbdd;
+  background: #352B63;
   padding: 20px;
 }
 
@@ -44,7 +44,7 @@ article {
   float: left;
   padding: 0px;
   width: 70%;
-  background-color: #aaaaee;
+  background-color: #251A52;
   height: 500px;
 }
 
@@ -57,7 +57,7 @@ section::after {
 
 /* Style the footer */
 footer {
-  background-color: #707070;
+  background-color: #352B63;
   padding: 10px;
   text-align: left;
   color: white;
