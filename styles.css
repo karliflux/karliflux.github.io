@@ -19,6 +19,7 @@ header {
   text-shadow: 4px 4px 5px #000000;
   font-size: 35px;
   color: #FFFFFF;
+  height: 100px;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -28,8 +29,8 @@ aside {
   background-attachment: fixed;
   background-size: 100% 100%;
   float: left;
-  width: 30%;
-  height: 500px;
+  width: 20%;
+  height: 700px;
   background: #352B63;
   padding: 20px;
   color: #FFFFFF;
@@ -44,9 +45,9 @@ aside {
 article {
   float: left;
   padding: 0px;
-  width: 70%;
+  width: 80%;
   background-color: #251A52;
-  height: 500px;
+  height: 700px;
   color: #FFFFFF;
 }
 
