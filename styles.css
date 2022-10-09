@@ -3,8 +3,13 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: opensans;
+  src: url(assets/fonts/OpenSans-Regular.ttf);
+}
+
 body {
-  font-family: ubuntu, sans-serif;
+  font-family: ubuntu, opensans, sans-serif;
   background: #352B63;
 }
 
