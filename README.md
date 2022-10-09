@@ -1,5 +1,9 @@
 ![favicon.gif](https://github.com/kittehsq/kittehsq.github.io/blob/main/assets/image/favicon.gif?raw=true)
 # kittehsq.github.io
+<p></p>
+# moved to neocities
+<p>damn daniel</p>
+<p>repository is now only used for issues and videos<p>
 
 <p>even smaller html5 website</p>
 <p>second html website, took 10 hours to complete the index.html, thanks again, w3schools!</p>
